@@ -1,0 +1,235 @@
+[
+  {
+    "detachment": "Berzerker Warband 3DP",
+    "stratagems": [
+      {
+        "name": "BLOOD OFFERING",
+        "cost": "1CP",
+        "type": "Berzerker Warband – Epic Deed Stratagem",
+        "description": "Khorne cares not from whence the blood flows, only that it does. The deaths of his own devoted are fitting offerings.\nWHEN:\nAny phase.\nTARGET:\nOne\nWORLD\nEATERS\nunit from your army that was just destroyed while it was within range of one or more objective markers you controlled at the end of the previous phase. You can use this Stratagem on that unit even though it was just destroyed.\nEFFECT:\nSelect one of those objective markers. That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase."
+      },
+      {
+        "name": "HACK AND SLASH",
+        "cost": "1CP",
+        "type": "Berzerker Warband – Battle Tactic Stratagem",
+        "description": "Hack and slash, rend and tear, dismember and eviscerate. Kill! Kill! KILL!\nWHEN:\nFight phase\n.\nTARGET:\nOne\nWORLD\nEATERS\nunit from your army that has not been selected to fight this phase and that made a\ncharge move\nthis turn.\nEFFECT:\nUntil the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1."
+      },
+      {
+        "name": "FRENZIED RESILIENCE",
+        "cost": "2CP",
+        "type": "Berzerker Warband – Battle Tactic Stratagem",
+        "description": "The depths of their fury lend the devoted of Khorne resilience. Mere flesh wounds will not stay the wrath of the World Eaters.\nWHEN:\nFight phase\n, just after an enemy unit has selected its targets.\nTARGET:\nOne\nWORLD\nEATERS\nunit from your army that was selected as the target of one or more of the attacking unit’s attacks.\nEFFECT:\nUntil the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+      },
+      {
+        "name": "SKULLS FOR THE SKULL THRONE!",
+        "cost": "1CP",
+        "type": "Berzerker Warband – Strategic Ploy Stratagem",
+        "description": "The skulls of mighty champions and monstrous foes make a fitting tribute to the Blood God.\nWHEN:\nFight phase\n, just after a\nWORLD\nEATERS\nunit from your army destroys a\nCHARACTER\nor\nMONSTER\nmodel.\nTARGET:\nThat\nWORLD\nEATERS\nunit.\nEFFECT:\nMake a\nBlessings\nof\nKhorne\nroll\nand use the results to activate one Blessing of Khorne. Until the end of the\nbattle round\n, that Blessing of Khorne is active in addition to any other Blessings of Khorne that are currently active."
+      },
+      {
+        "name": "APOPLECTIC FRENZY",
+        "cost": "1CP",
+        "type": "Berzerker Warband – Strategic Ploy Stratagem",
+        "description": "Those who fight for Khorne are driven to even greater depths of rage, surging towards the foe in a barely controlled tide of bloodthirsty savagery.\nWHEN:\nYour\nMovement phase\n, just after a\nKHORNE\nBERZERKERS\nunit from your army is selected to\nAdvance\n.\nTARGET:\nThat\nKHORNE\nBERZERKERS\nunit.\nEFFECT:\nUntil the end of the turn, your unit is eligible to\ndeclare a charge\nin a turn in which it Advanced."
+      },
+      {
+        "name": "BERZERKER’S WRATH",
+        "cost": "1CP",
+        "type": "Berzerker Warband – Strategic Ploy Stratagem",
+        "description": "The incessant pounding of the Butcher's Nails drives the World Eaters forward, desperate to salve their agony with blood and gore.\nWHEN:\nYour opponent’s\nShooting phase\n, just after an enemy unit has\nshot\n.\nTARGET:\nOne\nKHORNE\nBERZERKERS\nunit from your army that can make a\nsurge\nmove\nas a result of those attacks.\nEFFECT:\nDo not roll a D6 to determine how far models in your unit can move when they make a surge move. Instead, when making a surge move, those models can move up to 8\"."
+      }
+    ]
+  },
+  {
+    "detachment": "Cult of Blood 2DP",
+    "stratagems": [
+      {
+        "name": "BLOODY VENGEANCE",
+        "cost": "1CP",
+        "type": "Cult of Blood – Epic Deed Stratagem",
+        "description": "The demise of this titanic being showers nearby cultists in blood and viscera, inspiring vengeful fury.\nWHEN:\nAny phase.\nTARGET:\nOne\nWORLD\nEATERS\nMONSTER\nor\nWORLD\nEATERS\nTITANIC\nunit from your army that was just destroyed by an enemy unit. You can use this Stratagem on that unit even though it was just destroyed.\nEFFECT:\nUntil the end of the battle, each time a model in a\nJAKHALS\nor\nGOREMONGERS\nunit from your army makes an attack that targets the enemy unit that just destroyed your unit, you can re-roll the\nHit\nroll\n."
+      },
+      {
+        "name": "DRAWN TO THE SLAUGHTER",
+        "cost": "2CP",
+        "type": "Cult of Blood – Strategic Ploy Stratagem",
+        "description": "As the bloodshed increases, Jakhals are drawn to the fight like hungry scavengers to a kill.\nWHEN:\nAny phase.\nTARGET:\nOne\nJAKHALS\nunit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.\nEFFECT:\nAdd a new unit to your army identical to your destroyed unit, in\nStrategic Reserves\n, at its\nStarting\nStrength\n.\nRESTRICTIONS:\nThis Stratagem cannot be used to return destroyed\nCHARACTER\nunits to\nAttached units\n. You can only use this Stratagem once per battle."
+      },
+      {
+        "name": "IN THE SHADOW OF BRASS IDOLS",
+        "cost": "1CP",
+        "type": "Cult of Blood – Strategic Ploy Stratagem",
+        "description": "Emboldened by blood-slick and skull-laden idols of their dark god, mortal cultists shrug off injury.\nWHEN:\nYour opponent’s\nShooting phase\nor the\nFight phase\n, just after an enemy unit has selected its targets.\nTARGET:\nOne\nJAKHALS\nor\nGOREMONGERS\nunit from your army that was selected as the target as one or more of the attacking unit’s attacks.\nEFFECT:\nUntil the end of the phase, models in your unit have the\nFeel\nNo\nPain\n6+\nability. If your unit is within 6\" of one or more friendly\nWORLD\nEATERS\nMONSTER\nunits, or within 9\" of one or more friendly\nWORLD\nEATERS\nTITANIC\nunits, your unit has the\nFeel\nNo\nPain\n5+\nability instead."
+      },
+      {
+        "name": "BLOODTHIRSTY HORDE",
+        "cost": "1CP",
+        "type": "Cult of Blood – Battle Tactic Stratagem",
+        "description": "In their feverish desire to slaughter, Khornate cultists scramble and surge to land blows upon the foe.\nWHEN:\nFight phase\n.\nTARGET:\nOne\nJAKHALS\nor\nGOREMONGERS\nunit from your army that has not been selected to fight this phase and is within\nEngagement\nRange\nof one or more enemy units.\nEFFECT:\nUntil the end of the phase, each time your unit is selected to fight, when determining which models in it are eligible to fight, any models in your unit that are within 3\" of one or more enemy models are eligible to fight. When resolving those attacks, such models can target one of those enemy units that is within 3\" of them and within Engagement Range of their unit."
+      },
+      {
+        "name": "FAIL NOT THE BLOOD GOD",
+        "cost": "1CP",
+        "type": "Cult of Blood – Strategic Ploy Stratagem",
+        "description": "To fail Khorne is to invite a terrible fate.\nWHEN:\nFight phase\n.\nTARGET:\nOne\nJAKHALS\nor\nGOREMONGERS\nunit from your army.\nEFFECT:\nUntil the end of the phase, each time a model in your unit makes an attack, re-roll a\nHit\nroll\nof 1. If that model’s unit is within 6\" of one or more friendly\nWORLD\nEATERS\nMONSTER\nunits, or within 9\" of one or more friendly\nWORLD\nEATERS\nTITANIC\nunits, you can re-roll the Hit roll instead."
+      },
+      {
+        "name": "BRAZEN IDOL",
+        "cost": "2CP",
+        "type": "Cult of Blood – Epic Deed Stratagem",
+        "description": "The greatest idols wrought in Khorne's infernal name bestow myriad blessings upon his faithful.\nWHEN:\nYour\nCommand phase\n.\nTARGET:\nOne\nWORLD\nEATERS\nMONSTER\nor\nWORLD\nEATERS\nTITANIC\nunit from your army.\nEFFECT:\nSelect the Idol of Infinite Rage, Idol of Burning Wrath or Idol of Blessed Blood. Until the start of your next Command phase, that\nIdols\nof\nKhorne\nability is active for your unit instead of any other Idols of Khorne ability that is active for your army, even if you have already selected that ability this battle.\nRESTRICTIONS:\nYou can only use this Stratagem once per battle."
+      }
+    ]
+  },
+  {
+    "detachment": "Possessed Slaughterband 2DP",
+    "stratagems": [
+      {
+        "name": "DAEMONIC RESISTANCE",
+        "cost": "2CP",
+        "type": "Possessed Slaughterband – Battle Tactic Stratagem",
+        "description": "Possession lends great resilience.\nWHEN:\nYour opponent’s\nShooting phase\nor the\nFight phase\n, just after an enemy unit has selected its targets.\nTARGET:\nOne\nWORLD\nEATERS\nPOSSESSED\nunit from your army that was selected as the target of one or more of the attacking unit’s attacks.\nEFFECT:\nUntil the end of the phase, each time an attack targets your unit, subtract 1 from the\nWound\nroll\n."
+      },
+      {
+        "name": "DAEMONIC STRENGTH",
+        "cost": "1CP",
+        "type": "Possessed Slaughterband – Battle Tactic Stratagem",
+        "description": "Infernal mutations grant the possessed daemonic strength.\nWHEN:\nFight phase\n.\nTARGET:\nOne\nWORLD\nEATERS\nPOSSESSED\nunit from your army that has not been selected to fight this phase.\nEFFECT:\nUntil the end of the phase, each time an attack made by a model in your unit is allocated to an enemy model, if your unit has the\nEIGHTBOUND\nkeyword and that enemy model is not a\nMONSTER\nor\nVEHICLE\n, add 1 to the Damage characteristic of that attack. If your unit has the\nEXALTED\nEIGHTBOUND\nkeyword and that enemy model is a\nMONSTER\nor\nVEHICLE\n, add 1 to the Damage characteristic of that attack instead."
+      },
+      {
+        "name": "IMMORTAL FURY",
+        "cost": "2CP",
+        "type": "Possessed Slaughterband – Battle Tactic Stratagem",
+        "description": "Even as their host's form is destroyed, Khorne's daemons strive to strike a final, vengeful blow.\nWHEN:\nFight phase\n, just after an enemy unit has selected its targets.\nTARGET:\nOne\nWORLD\nEATERS\nPOSSESSED\nunit from your army that was selected as the target of one or more of the attacking unit’s attacks.\nEFFECT:\nUntil the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play."
+      },
+      {
+        "name": "RAPID MANIFESTATION",
+        "cost": "1CP",
+        "type": "Possessed Slaughterband – Strategic Ploy Stratagem",
+        "description": "Tearing through the fabric of reality, the Exalted Eightbound appear as if from nowhere to loom over their terrified victims.\nWHEN:\nYour\nMovement phase\n.\nTARGET:\nOne\nEXALTED\nEIGHTBOUND\nunit from your army that is arriving using the\nDeep\nStrike\nability this phase.\nEFFECT:\nYour unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units.\nRESTRICTIONS:\nA unit targeted with this Stratagem is not eligible to\ndeclare a charge\nin the same turn."
+      },
+      {
+        "name": "WARP STALKERS",
+        "cost": "1CP",
+        "type": "Possessed Slaughterband – Strategic Ploy Stratagem",
+        "description": "Possessed warriors surge over and through their allies, swatting lessors aside in their eagerness to slaughter foes.\nWHEN:\nYour\nMovement phase\nor your\nCharge phase\n.\nTARGET:\nOne\nWORLD\nEATERS\nPOSSESSED\nunit from your army that has not been selected to move or\ndeclare a charge\nthis phase.\nEFFECT:\nUntil the end of the phase, each time a model in your unit makes a\nNormal\n,\nAdvance\n,\nFall Back\nor\nCharge move\n, it can move through enemy models (excluding\nMONSTERS\nand\nVEHICLES\n). When doing so, it can move within\nEngagement Range\nof such models but, unless that move was a Charge move, it cannot end that move within Engagement Range of them, and any\nDesperate Escape test\nis automatically passed."
+      },
+      {
+        "name": "HORRIFYING VIOLENCE",
+        "cost": "1CP",
+        "type": "Possessed Slaughterband – Strategic Ploy Stratagem",
+        "description": "Enthralled warriors fall upon their victims in horrifying displays of carnage, sending panic rippling through the enemy ranks.\nWHEN:\nYour opponent’s\nCommand phase\n.\nTARGET:\nOne\nWORLD\nEATERS\nPOSSESSED\nunit from your army.\nEFFECT:\nEach enemy unit within\nEngagement\nRange\nof your unit must take a\nBattle-shock\ntest\n, subtracting 1 from that test."
+      }
+    ]
+  },
+  {
+    "detachment": "Goretrack Onslaught 2DP",
+    "stratagems": [
+      {
+        "name": "ENDLESS PURSUIT OF VIOLENCE",
+        "cost": "1CP",
+        "type": "Goretrack Onslaught – Strategic Ploy Stratagem",
+        "description": "Having slaughtered their foes, the World Eaters mount up once more to seek new victims.\nWHEN:\nEnd of the\nFight phase\n.\nTARGET:\nOne\nWORLD\nEATERS\nINFANTRY\nunit from your army and one friendly\nTRANSPORT\nthat it is able to\nembark\nwithin.\nEFFECT:\nIf your\nWORLD\nEATERS\nINFANTRY\nunit is wholly within 6\" of that\nTRANSPORT\n, it can embark within it."
+      },
+      {
+        "name": "SMASH THROUGH",
+        "cost": "1CP",
+        "type": "Goretrack Onslaught – Strategic Ploy Stratagem",
+        "description": "Few obstacles can prevent the World Eaters' eager armoured formations from reaching their prey.\nWHEN:\nYour\nMovement phase\n.\nTARGET:\nOne\nWORLD\nEATERS\nVEHICLE\nmodel from your army that has not been selected to move this phase.\nEFFECT:\nUntil the end of the phase, each time your unit makes a\nNormal\nor\nAdvance\nmove\n, it can move horizontally through\nterrain features\n."
+      },
+      {
+        "name": "AGGRESSIVE DISEMBARKATION",
+        "cost": "1CP",
+        "type": "Goretrack Onslaught – Strategic Ploy Stratagem",
+        "description": "Propelled by their bloodlust, the World Eaters spill from their transports and surge towards the foe.\nWHEN:\nYour\nMovement phase\n.\nTARGET:\nOne\nWORLD\nEATERS\nRHINO\nmodel from your army that has not been selected to move this phase.\nEFFECT:\nOne\nWORLD\nEATERS\nunit embarked within your\nRHINO\ncan\ndisembark\n. When doing so, models in that unit can be set up anywhere on the battlefield wholly within 6\" of your\nRHINO\nand can be set up within\nEngagement\nRange\nof one or more enemy units."
+      },
+      {
+        "name": "FULL-THROTTLE ASSAULT",
+        "cost": "1CP",
+        "type": "Goretrack Onslaught – Strategic Ploy Stratagem",
+        "description": "With their transports growling with hunger, the World Eaters emerge rapidly to crash headlong into their enemies.\nWHEN:\nYour\nMovement phase\n.\nTARGET:\nOne\nWORLD\nEATERS\nRHINO\nmodel from your army that has not been selected to move this phase.\nEFFECT:\nUntil the end of the phase, each time a\nWORLD\nEATERS\nunit\ndisembarks\nfrom that model after it has made a\nNormal\nmove\n, that unit makes an\nassault\ndisembark\nmove\n(Core Rules,\n18.06\n) for that disembarkation."
+      },
+      {
+        "name": "UNRELENTING ADVANCE",
+        "cost": "1CP",
+        "type": "Goretrack Onslaught – Strategic Ploy Stratagem",
+        "description": "Incoming fire crashes against corrupted armour, drawing the target closer.\nWHEN:\nYour opponent’s\nShooting phase\n, just after an enemy unit has shot.\nTARGET:\nOne\nWORLD\nEATERS\nVEHICLE\nmodel from your army that was hit by one or more of the attacking unit’s attacks.\nEFFECT:\nYour model can make a\nNormal\nmove\nof up to 6\".\nRESTRICTIONS:\nA unit cannot be targeted by this Stratagem and the Fury Unleashed Stratagem in the same phase."
+      },
+      {
+        "name": "FURY UNLEASHED",
+        "cost": "1CP",
+        "type": "Goretrack Onslaught – Strategic Ploy Stratagem",
+        "description": "Khorne Berzerkers react to incoming fire, disembarking to release their pent-up fury.\nWHEN:\nYour opponent’s\nShooting phase\n, just after an enemy unit has\nshot\n.\nTARGET:\nOne\nWORLD\nEATERS\nRHINO\nmodel from your army that has one or more wounds remaining and was\nhit\nby\none or more of the attacking unit’s attacks.\nEFFECT:\nOne\nKHORNE\nBERZERKERS\nunit\nembarked\nwithin your model can make a\ndisembark\nmove\nand then make a\nsurge\nmove\nof up to D6+2\".\nRESTRICTION:\nA unit cannot be targeted by this Stratagem and the Unrelenting Advance Stratagem in the same phase."
+      }
+    ]
+  },
+  {
+    "detachment": "Brazen Engines 1DP",
+    "stratagems": [
+      {
+        "name": "APOPLECTIC CLARITY",
+        "cost": "1CP",
+        "type": "Brazen Engines Stratagem",
+        "description": "So perfect a state of supernatural rage does this ironclad entity exist in that nothing can distract it from its single‑minded slaughter.\nWHEN:\nYour\nShooting phase\nor the\nFight phase\n, when a friendly\nDAEMON\nVEHICLE\nunit is\nselected\nto\nattack\n.\nTARGET:\nThat\nDAEMON\nVEHICLE\nunit.\nEFFECT:\nYour unit’s attacks can\nignore\nmodifiers\nto:\nBS\n.\nWS\n.\nHit\nrolls\nand\nwound\nrolls\n."
+      },
+      {
+        "name": "TRAIL OF DESTRUCTION",
+        "cost": "1CP",
+        "type": "Brazen Engines Stratagem",
+        "description": "Like a runaway engine of destruction, this Khornate war machine bulldozes a path through even the densest terrain in its urgency to reach the foe.\nWHEN:\nYour\nMovement phase\n, when a friendly\nDAEMON\nVEHICLE\nunit is\nselected to move\n.\nTARGET:\nThat\nDAEMON\nVEHICLE\nunit.\nEFFECT:\nYour unit has\nMOBILE\n."
+      },
+      {
+        "name": "GOADED TO FURY",
+        "cost": "1CP",
+        "type": "Brazen Engines Stratagem",
+        "description": "Incensed by the cowardly affront of the foe, this war engine charges down those who would dare fire upon it.\nWHEN:\nYour opponent’s\nShooting phase\n, when an enemy unit that targeted a friendly\nunengaged\nDAEMON\nVEHICLE\nunit (excluding\nTITANIC\nunits) has\nshot\n.\nTARGET:\nThat\nDAEMON\nVEHICLE\nunit.\nEFFECT:\nYour unit can make a\nsurge\nmove\nof up to D6\"."
+      }
+    ]
+  },
+  {
+    "detachment": "Butchers of Khorne 1DP",
+    "stratagems": [
+      {
+        "name": "FOCUSED FEROCITY",
+        "cost": "1CP",
+        "type": "Butchers of Khorne Stratagem",
+        "description": "Fighting with lunatic fierceness, these elite killers hack their victims limb from limb in a blizzard of blows.\nWHEN:\nFight phase\n, when a friendly\nTERMINATOR\nSQUAD\nunit is\nselected to fight\n.\nTARGET:\nThat\nTERMINATOR\nSQUAD\nunit.\nEFFECT:\nYour unit’s\nmelee attacks\nhave +1\nA\n."
+      },
+      {
+        "name": "A TROPHY FOR THE THRONE",
+        "cost": "1CP",
+        "type": "Butchers of Khorne Stratagem",
+        "description": "The greater and more terrible the enemies these warriors face in battle, the mightier the trophies they can take in the Blood God’s name.\nWHEN:\nFight phase\n, when a friendly\nTERMINATOR\nSQUAD\nunit is\nselected to fight\n.\nTARGET:\nThat\nTERMINATOR\nSQUAD\nunit.\nEFFECT:\nYour unit’s attacks that target a\nMONSTER/VEHICLE\nunit have +1 to\nwound\nrolls\n."
+      },
+      {
+        "name": "WRATH BEYOND REASON",
+        "cost": "2CP",
+        "type": "Butchers of Khorne Stratagem",
+        "description": "So seized by furious bloodlust are these killers that they fight on through even the most grievous mortal wounds.\nWHEN:\nYour opponent’s\nShooting Phase\n, when an enemy unit targets a friendly\nTERMINATOR\nSQUAD\nunit.\nTARGET:\nThat\nTERMINATOR\nSQUAD\nunit.\nEFFECT:\nRanged attacks\nthat target your unit have -1\nD\nuntil that enemy unit has\nattacked\n."
+      }
+    ]
+  },
+  {
+    "detachment": "Vessels of Wrath 1DP",
+    "stratagems": [
+      {
+        "name": "SCORN THE WITCH",
+        "cost": "1CP",
+        "type": "Vessels of Wrath Stratagem",
+        "description": "Those who feel Khorne’s blessings burning through their bodies and minds can shrug off hostile witchery with the force of their hate-fuelled contempt.\nWHEN:\nAny phase, when a friendly\nWORLD\nEATERS\nCHARACTER\nunit (excluding\nEPIC\nHERO\nunits) suffers a\nmortal\nwound\n.\nTARGET:\nThat\nWORLD\nEATERS\nCHARACTER\nunit.\nEFFECT:\nYour unit has\nFeel\nNo\nPain\n4+\nagainst\nmortal\nwounds\n."
+      },
+      {
+        "name": "ASPIRE TO INFAMY",
+        "cost": "1CP",
+        "type": "Vessels of Wrath Stratagem",
+        "description": "Feeling that the Blood God’s eye must surely be sweeping the field of war, his champions strive with wild ferocity to prove themselves.\nWHEN:\nFight phase\n, when a friendly\nWORLD\nEATERS\nCHARACTER\nunit (excluding\nEPIC\nHERO\nunits) is\nselected to fight\n.\nTARGET:\nThat\nWORLD\nEATERS\nCHARACTER\nunit.\nEFFECT:\nYour unit’s\nCHARACTER\nmodels’\nmelee attacks\nhave:\n+1\nA\n.\n+2\nS\n."
+      },
+      {
+        "name": "PUNISH THE CRAVEN",
+        "cost": "1CP",
+        "type": "Vessels of Wrath Stratagem",
+        "description": "The Blood God is said to detest cowards. Meting out punishment to such degenerates is a sure way to win his favour and gain his wrathful boons.\nWHEN:\nYour opponent’s\nMovement phase\n, when a unit is selected to make a\nfall-back\nmove\n, if that unit is\nengaged\nwith a friendly\nWORLD\nEATERS\nCHARACTER\nunit.\nTARGET:\nThat\nWORLD\nEATERS\nCHARACTER\nunit.\nEFFECT:\nWhen an enemy unit\nengaged\nwith your unit is selected to make a\nfall-back move\n, that enemy unit must use the\ndesperate escape\nmode. If that enemy unit is\nbattle-shocked\n, -1 from those\nhazard\nrolls\n."
+      }
+    ]
+  }
+]

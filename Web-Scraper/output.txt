@@ -1,0 +1,500 @@
+DETACHMENT: Berzerker Warband 3DP
+================================================================================================
+Stratagems: 6
+
+1. BLOOD OFFERING
+   Cost: 1CP
+   Type: Berzerker Warband – Epic Deed Stratagem
+   Description:
+   Khorne cares not from whence the blood flows, only that it does. The deaths of his own
+       devoted are fitting offerings.
+   WHEN: Any phase.
+   TARGET: One WORLD EATERS unit from your army that was just destroyed while it was within
+       range of one or more objective markers you controlled at the end of the previous phase.
+       You can use this Stratagem on that unit even though it was just destroyed.
+   EFFECT: Select one of those objective markers. That objective marker remains under your
+       control until your opponent’s Level of Control over that objective marker is greater than
+       yours at the end of a phase.
+
+------------------------------------------------------------------------------------------------
+
+2. HACK AND SLASH
+   Cost: 1CP
+   Type: Berzerker Warband – Battle Tactic Stratagem
+   Description:
+   Hack and slash, rend and tear, dismember and eviscerate. Kill! Kill! KILL!
+   WHEN: Fight phase.
+   TARGET: One WORLD EATERS unit from your army that has not been selected to fight this phase
+       and that made a charge move this turn.
+   EFFECT: Until the end of the phase, improve the Armour Penetration characteristic of melee
+       weapons equipped by models in your unit by 1.
+
+------------------------------------------------------------------------------------------------
+
+3. FRENZIED RESILIENCE
+   Cost: 2CP
+   Type: Berzerker Warband – Battle Tactic Stratagem
+   Description:
+   The depths of their fury lend the devoted of Khorne resilience. Mere flesh wounds will not
+       stay the wrath of the World Eaters.
+   WHEN: Fight phase, just after an enemy unit has selected its targets.
+   TARGET: One WORLD EATERS unit from your army that was selected as the target of one or more
+       of the attacking unit’s attacks.
+   EFFECT: Until the end of the phase, each time an attack is allocated to a model in your unit,
+       subtract 1 from the Damage characteristic of that attack.
+
+------------------------------------------------------------------------------------------------
+
+4. SKULLS FOR THE SKULL THRONE!
+   Cost: 1CP
+   Type: Berzerker Warband – Strategic Ploy Stratagem
+   Description:
+   The skulls of mighty champions and monstrous foes make a fitting tribute to the Blood God.
+   WHEN: Fight phase, just after a WORLD EATERS unit from your army destroys a CHARACTER or
+       MONSTER model.
+   TARGET: That WORLD EATERS unit.
+   EFFECT: Make a Blessings of Khorne roll and use the results to activate one Blessing of
+       Khorne. Until the end of the battle round, that Blessing of Khorne is active in addition
+       to any other Blessings of Khorne that are currently active.
+
+------------------------------------------------------------------------------------------------
+
+5. APOPLECTIC FRENZY
+   Cost: 1CP
+   Type: Berzerker Warband – Strategic Ploy Stratagem
+   Description:
+   Those who fight for Khorne are driven to even greater depths of rage, surging towards the foe
+       in a barely controlled tide of bloodthirsty savagery.
+   WHEN: Your Movement phase, just after a KHORNE BERZERKERS unit from your army is selected to
+       Advance.
+   TARGET: That KHORNE BERZERKERS unit.
+   EFFECT: Until the end of the turn, your unit is eligible to declare a charge in a turn in
+       which it Advanced.
+
+------------------------------------------------------------------------------------------------
+
+6. BERZERKER’S WRATH
+   Cost: 1CP
+   Type: Berzerker Warband – Strategic Ploy Stratagem
+   Description:
+   The incessant pounding of the Butcher's Nails drives the World Eaters forward, desperate to
+       salve their agony with blood and gore.
+   WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.
+   TARGET: One KHORNE BERZERKERS unit from your army that can make a surge move as a result of
+       those attacks.
+   EFFECT: Do not roll a D6 to determine how far models in your unit can move when they make a
+       surge move. Instead, when making a surge move, those models can move up to 8".
+
+------------------------------------------------------------------------------------------------
+
+DETACHMENT: Cult of Blood 2DP
+================================================================================================
+Stratagems: 6
+
+1. BLOODY VENGEANCE
+   Cost: 1CP
+   Type: Cult of Blood – Epic Deed Stratagem
+   Description:
+   The demise of this titanic being showers nearby cultists in blood and viscera, inspiring
+       vengeful fury.
+   WHEN: Any phase.
+   TARGET: One WORLD EATERS MONSTER or WORLD EATERS TITANIC unit from your army that was just
+       destroyed by an enemy unit. You can use this Stratagem on that unit even though it was
+       just destroyed.
+   EFFECT: Until the end of the battle, each time a model in a JAKHALS or GOREMONGERS unit from
+       your army makes an attack that targets the enemy unit that just destroyed your unit, you
+       can re-roll the Hit roll.
+
+------------------------------------------------------------------------------------------------
+
+2. DRAWN TO THE SLAUGHTER
+   Cost: 2CP
+   Type: Cult of Blood – Strategic Ploy Stratagem
+   Description:
+   As the bloodshed increases, Jakhals are drawn to the fight like hungry scavengers to a kill.
+   WHEN: Any phase.
+   TARGET: One JAKHALS unit from your army that was just destroyed. You can use this Stratagem
+       on that unit even though it was just destroyed.
+   EFFECT: Add a new unit to your army identical to your destroyed unit, in Strategic Reserves,
+       at its Starting Strength.
+   RESTRICTIONS: This Stratagem cannot be used to return destroyed CHARACTER units to Attached
+       units. You can only use this Stratagem once per battle.
+
+------------------------------------------------------------------------------------------------
+
+3. IN THE SHADOW OF BRASS IDOLS
+   Cost: 1CP
+   Type: Cult of Blood – Strategic Ploy Stratagem
+   Description:
+   Emboldened by blood-slick and skull-laden idols of their dark god, mortal cultists shrug off
+       injury.
+   WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has
+       selected its targets.
+   TARGET: One JAKHALS or GOREMONGERS unit from your army that was selected as the target as one
+       or more of the attacking unit’s attacks.
+   EFFECT: Until the end of the phase, models in your unit have the Feel No Pain 6+ ability. If
+       your unit is within 6" of one or more friendly WORLD EATERS MONSTER units, or within 9"
+       of one or more friendly WORLD EATERS TITANIC units, your unit has the Feel No Pain 5+
+       ability instead.
+
+------------------------------------------------------------------------------------------------
+
+4. BLOODTHIRSTY HORDE
+   Cost: 1CP
+   Type: Cult of Blood – Battle Tactic Stratagem
+   Description:
+   In their feverish desire to slaughter, Khornate cultists scramble and surge to land blows
+       upon the foe.
+   WHEN: Fight phase.
+   TARGET: One JAKHALS or GOREMONGERS unit from your army that has not been selected to fight
+       this phase and is within Engagement Range of one or more enemy units.
+   EFFECT: Until the end of the phase, each time your unit is selected to fight, when
+       determining which models in it are eligible to fight, any models in your unit that are
+       within 3" of one or more enemy models are eligible to fight. When resolving those
+       attacks, such models can target one of those enemy units that is within 3" of them and
+       within Engagement Range of their unit.
+
+------------------------------------------------------------------------------------------------
+
+5. FAIL NOT THE BLOOD GOD
+   Cost: 1CP
+   Type: Cult of Blood – Strategic Ploy Stratagem
+   Description:
+   To fail Khorne is to invite a terrible fate.
+   WHEN: Fight phase.
+   TARGET: One JAKHALS or GOREMONGERS unit from your army.
+   EFFECT: Until the end of the phase, each time a model in your unit makes an attack, re-roll a
+       Hit roll of 1. If that model’s unit is within 6" of one or more friendly WORLD EATERS
+       MONSTER units, or within 9" of one or more friendly WORLD EATERS TITANIC units, you can
+       re-roll the Hit roll instead.
+
+------------------------------------------------------------------------------------------------
+
+6. BRAZEN IDOL
+   Cost: 2CP
+   Type: Cult of Blood – Epic Deed Stratagem
+   Description:
+   The greatest idols wrought in Khorne's infernal name bestow myriad blessings upon his
+       faithful.
+   WHEN: Your Command phase.
+   TARGET: One WORLD EATERS MONSTER or WORLD EATERS TITANIC unit from your army.
+   EFFECT: Select the Idol of Infinite Rage, Idol of Burning Wrath or Idol of Blessed Blood.
+       Until the start of your next Command phase, that Idols of Khorne ability is active for
+       your unit instead of any other Idols of Khorne ability that is active for your army, even
+       if you have already selected that ability this battle.
+   RESTRICTIONS: You can only use this Stratagem once per battle.
+
+------------------------------------------------------------------------------------------------
+
+DETACHMENT: Possessed Slaughterband 2DP
+================================================================================================
+Stratagems: 6
+
+1. DAEMONIC RESISTANCE
+   Cost: 2CP
+   Type: Possessed Slaughterband – Battle Tactic Stratagem
+   Description:
+   Possession lends great resilience.
+   WHEN: Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has
+       selected its targets.
+   TARGET: One WORLD EATERS POSSESSED unit from your army that was selected as the target of one
+       or more of the attacking unit’s attacks.
+   EFFECT: Until the end of the phase, each time an attack targets your unit, subtract 1 from
+       the Wound roll.
+
+------------------------------------------------------------------------------------------------
+
+2. DAEMONIC STRENGTH
+   Cost: 1CP
+   Type: Possessed Slaughterband – Battle Tactic Stratagem
+   Description:
+   Infernal mutations grant the possessed daemonic strength.
+   WHEN: Fight phase.
+   TARGET: One WORLD EATERS POSSESSED unit from your army that has not been selected to fight
+       this phase.
+   EFFECT: Until the end of the phase, each time an attack made by a model in your unit is
+       allocated to an enemy model, if your unit has the EIGHTBOUND keyword and that enemy model
+       is not a MONSTER or VEHICLE, add 1 to the Damage characteristic of that attack. If your
+       unit has the EXALTED EIGHTBOUND keyword and that enemy model is a MONSTER or VEHICLE, add
+       1 to the Damage characteristic of that attack instead.
+
+------------------------------------------------------------------------------------------------
+
+3. IMMORTAL FURY
+   Cost: 2CP
+   Type: Possessed Slaughterband – Battle Tactic Stratagem
+   Description:
+   Even as their host's form is destroyed, Khorne's daemons strive to strike a final, vengeful
+       blow.
+   WHEN: Fight phase, just after an enemy unit has selected its targets.
+   TARGET: One WORLD EATERS POSSESSED unit from your army that was selected as the target of one
+       or more of the attacking unit’s attacks.
+   EFFECT: Until the end of the phase, each time a model in your unit is destroyed, if that
+       model has not fought this phase, do not remove it from play. The destroyed model can
+       fight after the attacking model’s unit has finished making its attacks, and is then
+       removed from play.
+
+------------------------------------------------------------------------------------------------
+
+4. RAPID MANIFESTATION
+   Cost: 1CP
+   Type: Possessed Slaughterband – Strategic Ploy Stratagem
+   Description:
+   Tearing through the fabric of reality, the Exalted Eightbound appear as if from nowhere to
+       loom over their terrified victims.
+   WHEN: Your Movement phase.
+   TARGET: One EXALTED EIGHTBOUND unit from your army that is arriving using the Deep Strike
+       ability this phase.
+   EFFECT: Your unit can be set up anywhere on the battlefield that is more than 6" horizontally
+       away from all enemy units.
+   RESTRICTIONS: A unit targeted with this Stratagem is not eligible to declare a charge in the
+       same turn.
+
+------------------------------------------------------------------------------------------------
+
+5. WARP STALKERS
+   Cost: 1CP
+   Type: Possessed Slaughterband – Strategic Ploy Stratagem
+   Description:
+   Possessed warriors surge over and through their allies, swatting lessors aside in their
+       eagerness to slaughter foes.
+   WHEN: Your Movement phase or your Charge phase.
+   TARGET: One WORLD EATERS POSSESSED unit from your army that has not been selected to move or
+       declare a charge this phase.
+   EFFECT: Until the end of the phase, each time a model in your unit makes a Normal, Advance,
+       Fall Back or Charge move, it can move through enemy models (excluding MONSTERS and
+       VEHICLES ). When doing so, it can move within Engagement Range of such models but, unless
+       that move was a Charge move, it cannot end that move within Engagement Range of them, and
+       any Desperate Escape test is automatically passed.
+
+------------------------------------------------------------------------------------------------
+
+6. HORRIFYING VIOLENCE
+   Cost: 1CP
+   Type: Possessed Slaughterband – Strategic Ploy Stratagem
+   Description:
+   Enthralled warriors fall upon their victims in horrifying displays of carnage, sending panic
+       rippling through the enemy ranks.
+   WHEN: Your opponent’s Command phase.
+   TARGET: One WORLD EATERS POSSESSED unit from your army.
+   EFFECT: Each enemy unit within Engagement Range of your unit must take a Battle-shock test,
+       subtracting 1 from that test.
+
+------------------------------------------------------------------------------------------------
+
+DETACHMENT: Goretrack Onslaught 2DP
+================================================================================================
+Stratagems: 6
+
+1. ENDLESS PURSUIT OF VIOLENCE
+   Cost: 1CP
+   Type: Goretrack Onslaught – Strategic Ploy Stratagem
+   Description:
+   Having slaughtered their foes, the World Eaters mount up once more to seek new victims.
+   WHEN: End of the Fight phase.
+   TARGET: One WORLD EATERS INFANTRY unit from your army and one friendly TRANSPORT that it is
+       able to embark within.
+   EFFECT: If your WORLD EATERS INFANTRY unit is wholly within 6" of that TRANSPORT, it can
+       embark within it.
+
+------------------------------------------------------------------------------------------------
+
+2. SMASH THROUGH
+   Cost: 1CP
+   Type: Goretrack Onslaught – Strategic Ploy Stratagem
+   Description:
+   Few obstacles can prevent the World Eaters' eager armoured formations from reaching their
+       prey.
+   WHEN: Your Movement phase.
+   TARGET: One WORLD EATERS VEHICLE model from your army that has not been selected to move this
+       phase.
+   EFFECT: Until the end of the phase, each time your unit makes a Normal or Advance move, it
+       can move horizontally through terrain features.
+
+------------------------------------------------------------------------------------------------
+
+3. AGGRESSIVE DISEMBARKATION
+   Cost: 1CP
+   Type: Goretrack Onslaught – Strategic Ploy Stratagem
+   Description:
+   Propelled by their bloodlust, the World Eaters spill from their transports and surge towards
+       the foe.
+   WHEN: Your Movement phase.
+   TARGET: One WORLD EATERS RHINO model from your army that has not been selected to move this
+       phase.
+   EFFECT: One WORLD EATERS unit embarked within your RHINO can disembark. When doing so, models
+       in that unit can be set up anywhere on the battlefield wholly within 6" of your RHINO and
+       can be set up within Engagement Range of one or more enemy units.
+
+------------------------------------------------------------------------------------------------
+
+4. FULL-THROTTLE ASSAULT
+   Cost: 1CP
+   Type: Goretrack Onslaught – Strategic Ploy Stratagem
+   Description:
+   With their transports growling with hunger, the World Eaters emerge rapidly to crash headlong
+       into their enemies.
+   WHEN: Your Movement phase.
+   TARGET: One WORLD EATERS RHINO model from your army that has not been selected to move this
+       phase.
+   EFFECT: Until the end of the phase, each time a WORLD EATERS unit disembarks from that model
+       after it has made a Normal move, that unit makes an assault disembark move (Core Rules,
+       18.06 ) for that disembarkation.
+
+------------------------------------------------------------------------------------------------
+
+5. UNRELENTING ADVANCE
+   Cost: 1CP
+   Type: Goretrack Onslaught – Strategic Ploy Stratagem
+   Description:
+   Incoming fire crashes against corrupted armour, drawing the target closer.
+   WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.
+   TARGET: One WORLD EATERS VEHICLE model from your army that was hit by one or more of the
+       attacking unit’s attacks.
+   EFFECT: Your model can make a Normal move of up to 6".
+   RESTRICTIONS: A unit cannot be targeted by this Stratagem and the Fury Unleashed Stratagem in
+       the same phase.
+
+------------------------------------------------------------------------------------------------
+
+6. FURY UNLEASHED
+   Cost: 1CP
+   Type: Goretrack Onslaught – Strategic Ploy Stratagem
+   Description:
+   Khorne Berzerkers react to incoming fire, disembarking to release their pent-up fury.
+   WHEN: Your opponent’s Shooting phase, just after an enemy unit has shot.
+   TARGET: One WORLD EATERS RHINO model from your army that has one or more wounds remaining and
+       was hit by one or more of the attacking unit’s attacks.
+   EFFECT: One KHORNE BERZERKERS unit embarked within your model can make a disembark move and
+       then make a surge move of up to D6+2". RESTRICTION: A unit cannot be targeted by this
+       Stratagem and the Unrelenting Advance Stratagem in the same phase.
+
+------------------------------------------------------------------------------------------------
+
+DETACHMENT: Brazen Engines 1DP
+================================================================================================
+Stratagems: 3
+
+1. APOPLECTIC CLARITY
+   Cost: 1CP
+   Type: Brazen Engines Stratagem
+   Description:
+   So perfect a state of supernatural rage does this ironclad entity exist in that nothing can
+       distract it from its single‑minded slaughter.
+   WHEN: Your Shooting phase or the Fight phase, when a friendly DAEMON VEHICLE unit is selected
+       to attack.
+   TARGET: That DAEMON VEHICLE unit.
+   EFFECT: Your unit’s attacks can ignore modifiers to: BS. WS. Hit rolls and wound rolls.
+
+------------------------------------------------------------------------------------------------
+
+2. TRAIL OF DESTRUCTION
+   Cost: 1CP
+   Type: Brazen Engines Stratagem
+   Description:
+   Like a runaway engine of destruction, this Khornate war machine bulldozes a path through even
+       the densest terrain in its urgency to reach the foe.
+   WHEN: Your Movement phase, when a friendly DAEMON VEHICLE unit is selected to move.
+   TARGET: That DAEMON VEHICLE unit.
+   EFFECT: Your unit has MOBILE.
+
+------------------------------------------------------------------------------------------------
+
+3. GOADED TO FURY
+   Cost: 1CP
+   Type: Brazen Engines Stratagem
+   Description:
+   Incensed by the cowardly affront of the foe, this war engine charges down those who would
+       dare fire upon it.
+   WHEN: Your opponent’s Shooting phase, when an enemy unit that targeted a friendly unengaged
+       DAEMON VEHICLE unit (excluding TITANIC units) has shot.
+   TARGET: That DAEMON VEHICLE unit.
+   EFFECT: Your unit can make a surge move of up to D6".
+
+------------------------------------------------------------------------------------------------
+
+DETACHMENT: Butchers of Khorne 1DP
+================================================================================================
+Stratagems: 3
+
+1. FOCUSED FEROCITY
+   Cost: 1CP
+   Type: Butchers of Khorne Stratagem
+   Description:
+   Fighting with lunatic fierceness, these elite killers hack their victims limb from limb in a
+       blizzard of blows.
+   WHEN: Fight phase, when a friendly TERMINATOR SQUAD unit is selected to fight.
+   TARGET: That TERMINATOR SQUAD unit.
+   EFFECT: Your unit’s melee attacks have +1 A.
+
+------------------------------------------------------------------------------------------------
+
+2. A TROPHY FOR THE THRONE
+   Cost: 1CP
+   Type: Butchers of Khorne Stratagem
+   Description:
+   The greater and more terrible the enemies these warriors face in battle, the mightier the
+       trophies they can take in the Blood God’s name.
+   WHEN: Fight phase, when a friendly TERMINATOR SQUAD unit is selected to fight.
+   TARGET: That TERMINATOR SQUAD unit.
+   EFFECT: Your unit’s attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls.
+
+------------------------------------------------------------------------------------------------
+
+3. WRATH BEYOND REASON
+   Cost: 2CP
+   Type: Butchers of Khorne Stratagem
+   Description:
+   So seized by furious bloodlust are these killers that they fight on through even the most
+       grievous mortal wounds.
+   WHEN: Your opponent’s Shooting Phase, when an enemy unit targets a friendly TERMINATOR SQUAD
+       unit.
+   TARGET: That TERMINATOR SQUAD unit.
+   EFFECT: Ranged attacks that target your unit have -1 D until that enemy unit has attacked.
+
+------------------------------------------------------------------------------------------------
+
+DETACHMENT: Vessels of Wrath 1DP
+================================================================================================
+Stratagems: 3
+
+1. SCORN THE WITCH
+   Cost: 1CP
+   Type: Vessels of Wrath Stratagem
+   Description:
+   Those who feel Khorne’s blessings burning through their bodies and minds can shrug off
+       hostile witchery with the force of their hate-fuelled contempt.
+   WHEN: Any phase, when a friendly WORLD EATERS CHARACTER unit (excluding EPIC HERO units)
+       suffers a mortal wound.
+   TARGET: That WORLD EATERS CHARACTER unit.
+   EFFECT: Your unit has Feel No Pain 4+ against mortal wounds.
+
+------------------------------------------------------------------------------------------------
+
+2. ASPIRE TO INFAMY
+   Cost: 1CP
+   Type: Vessels of Wrath Stratagem
+   Description:
+   Feeling that the Blood God’s eye must surely be sweeping the field of war, his champions
+       strive with wild ferocity to prove themselves.
+   WHEN: Fight phase, when a friendly WORLD EATERS CHARACTER unit (excluding EPIC HERO units) is
+       selected to fight.
+   TARGET: That WORLD EATERS CHARACTER unit.
+   EFFECT: Your unit’s CHARACTER models’ melee attacks have: +1 A. +2 S.
+
+------------------------------------------------------------------------------------------------
+
+3. PUNISH THE CRAVEN
+   Cost: 1CP
+   Type: Vessels of Wrath Stratagem
+   Description:
+   The Blood God is said to detest cowards. Meting out punishment to such degenerates is a sure
+       way to win his favour and gain his wrathful boons.
+   WHEN: Your opponent’s Movement phase, when a unit is selected to make a fall-back move, if
+       that unit is engaged with a friendly WORLD EATERS CHARACTER unit.
+   TARGET: That WORLD EATERS CHARACTER unit.
+   EFFECT: When an enemy unit engaged with your unit is selected to make a fall-back move, that
+       enemy unit must use the desperate escape mode. If that enemy unit is battle-shocked, -1
+       from those hazard rolls.
+
+------------------------------------------------------------------------------------------------
